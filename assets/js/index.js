@@ -1,6 +1,6 @@
 $(function () {
 
-  getUIserinfo()
+  getUserInfo()
 
 
 
@@ -31,7 +31,7 @@ $(function () {
 
 
 
-function getUIserinfo() {
+function getUserInfo() {
 
   $.ajax({
 
